@@ -29,10 +29,10 @@
           <mxGeometry x="494.5" y="118" width="252" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NsbrQJQTpb1tyfXeVME4-9" value="更新任务状态为已完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="333" width="220" height="48" as="geometry" />
+          <mxGeometry x="500" y="234" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NsbrQJQTpb1tyfXeVME4-10" value="用户查看审阅结果并人工确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="494" y="450" width="252" height="66" as="geometry" />
+          <mxGeometry x="500" y="324" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NsbrQJQTpb1tyfXeVME4-11" value="确认结果归档" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="542" y="627" width="156" height="48" as="geometry" />
